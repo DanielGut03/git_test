@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>This is daniels</title>
+</head>
+
+    <body>
+       <h1><strong>This is a Heading</strong></h1>
+
+
+        <p><h5> This is a paragraph which can be made by putting "p" in a opening and closing bracket like this <> 
+                and putting one in the beggining of the paragraph and the end. Close it with a /p instead of just p
+        </h5></p>
+
+        <p><h5><strong>
+            This is the bold font, it is used by "strong" in brackets like this <>
+        
+        </h5></p></strong>
+
+        <p><h5><em>This is the italic font, it is used by "em" in brackets like this<>
+
+        </em></h5></p>
+        
+        <!-- this is a test comment-->
+    
+        <h1>Text Size</h1>
+            <p><h5>There are 6 different text sizes ranging from h1 to h6. h1 is the biggest and h6 is the smallest.
+                    Here is an example:
+            </h5></p>
+
+            <h1>This is h1</h1>
+            <h2>This is h2</h2>
+            <h3>This is h3</h3>
+            <h4>This is h4</h4>
+            <h5>This is h5</h5>
+            <h6>This is h6</h6>
+
+    </body>
+
+
+
+</html>
